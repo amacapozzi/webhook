@@ -1,0 +1,1 @@
+const webhook = "https://canary.discord.com/api/webhooks/1052415678830874704/kfu5HR9c93g-biIi_Z_lLfPPl7Iby7P79-g0PMbA9m9IHnSy6xZ4n3oeTvvrGEp1ck86"
